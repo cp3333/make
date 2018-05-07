@@ -1,0 +1,2 @@
+# make
+just test
